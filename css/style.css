@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.inicio {
+    background-color: black;
+    color: white;
+    
+}
+
+.header {
+    background-color: #F0A83E;
+    color: white;
+    
+}
+
+.imagen-principal {
+    width: 1025px;
+
+}
+
+.men_icon a{
+    color:white;
+    text-decoration: none;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.productos-destacados {
+    display: flex;
+    padding: 20px;
+}
+
+.productos-destacados div {
+    text-align: center;
+}
+
+p#color-naranja {
+    color: #F0A83E;
+}
+
+
